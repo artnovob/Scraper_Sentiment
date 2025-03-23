@@ -1,0 +1,7 @@
+echo "# Scraper_Sentiment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch main
+git remote add origin https://github.com/artnovob/Scraper_Sentiment.git
+git push -u origin main
